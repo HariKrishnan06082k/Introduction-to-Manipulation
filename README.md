@@ -1,14 +1,11 @@
 # Introduction to Manipulation
- Python scripts of the assignments in ROB 599 Introduction to Manipulation (Fall 2023)
-
+ Python scripts of the assignments in ROB 599 Introduction to Manipulation and Control (Fall 2023)
 
 - ✅ Contact Friction cones and Grasp Wrench Analysis
 - ✅ Optimization using Linear complementarity problem
 - ✅ Point cloud registration (ICP)
 - ✅ Antipodal grasping
 - ✅ DMP Controller
-
-
 
 ## Point cloud registration (ICP)
 <img src="img/ICP_scene.png" width=60%>
